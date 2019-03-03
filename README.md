@@ -3,6 +3,9 @@
   2、对cnews进行了预处理data_preprocess.ipynb<br>
   3、学习召回率、准确率、ROC曲线、AUC、PR曲线基本概念：https://www.imooc.com/article/48072 <br>
 
+3月3日<br>
+  1、新增imdb.ipynb, 主要对该数据的进行了解
+  2、添加以下笔记
 
 
 |                              | 真实值 | 预测值 |
