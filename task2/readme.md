@@ -160,7 +160,7 @@ trigram示例：
 
 
 
-3.2、对cnews训练数据进行词袋化：cnews_words_bag.ipynb
+### 3.2、对cnews训练数据进行词袋化：cnews_words_bag.ipynb
 
 
 
