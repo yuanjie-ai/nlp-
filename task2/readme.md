@@ -150,11 +150,11 @@ trigram示例：
 
 3.1、词袋模型，TF-IDF概念：
 
-![1551752861329](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1551752861329.png)
+![1551752861329](./bow.png)
 
-![1551752876314](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1551752876314.png)
+![1551752876314](./tf.png)
 
-![1551752842513](C:\Users\tadsh\AppData\Roaming\Typora\typora-user-images\1551752842513.png)
+![1551752842513](./df.png)
 
 最后TF-IDF就是词频矩阵乘以逆文档频率（有的公式是先对IDF取对数）
 
