@@ -8,9 +8,7 @@
 6. 使用LDA生成主题特征，在之前特征的基础上加入主题特征进行文本分类
 7. 参考
   朴素贝叶斯1：sklearn：https://blog.csdn.net/u013710265/article/details/72780520
-  lda2：https://blog.csdn.net/u013710265/article/details/73480332
-        http://www.cnblogs.com/pinard/p/6908150.html
-        https://blog.csdn.net/chen_yiwei/article/details/88370526
+  lda2：https://blog.csdn.net/u013710265/article/details/73480332，http://www.cnblogs.com/pinard/p/6908150.html，https://blog.csdn.net/chen_yiwei/article/details/88370526
   SVM原理篇之手撕SVM(里面有手写SVM代码，可自行去实现一次)：https://blog.csdn.net/weixin_39605679/article/details/81170300
 
 
