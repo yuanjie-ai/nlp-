@@ -29,7 +29,7 @@
 
 ​	若激活函数采用线性激活函数（恒等激励函数, 即**a**=**z** ），本质上就只是把输入线性组合再输出：
 
-![line_activation](.\img\line_activation.png)
+![line_activation](./img/line_activation.png)
 
 当然，若是输出问题是个回归问题，那么输出层可以尝试使用线性激活函数(等价于没用激活函数)
 
@@ -80,7 +80,7 @@ relu的优点：
 
 5、早期停止：在训练的过程中，发现在验证集上的测试精度反而越来越差时，提前停止训练
 
-![early](.\img\early.jpg)
+![early](./img/early.jpg)
 
 
 
